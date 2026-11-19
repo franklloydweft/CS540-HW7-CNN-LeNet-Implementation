@@ -1,6 +1,6 @@
 # CS 540 HW6 Spring 2023
 
-This project is an extension on homework 6, this time consisting of the design and implementation of a convolutional neural network (the LeNet model) for the MiniPlaces dataset (scene recognition database with 120k images from 100 categories by MIT). This project references helper functions in `train_miniplaces.py` and `dataloader.py` and requires the packages listed in [homework 6](https://github.com/franklloydweft/CS540-HW6-Intro-PyTorch-Neural-Net) as well as some similar implementations.
+This project is an extension on homework 6, this time consisting of the design and implementation of a convolutional neural network (the [LeNet](https://en.wikipedia.org/wiki/LeNet) model) for the MiniPlaces dataset (scene recognition database with 120k images from 100 categories by MIT). This project references helper functions in `train_miniplaces.py` and `dataloader.py` and requires the packages listed in [homework 6](https://github.com/franklloydweft/CS540-HW6-Intro-PyTorch-Neural-Net) as well as some similar implementations.
 
 ## Packages used
 - `from tqdm import tqdm`
